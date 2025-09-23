@@ -74,7 +74,7 @@ fi
 
 # Generate LaTeX file using Python script
 print_status "Generating LaTeX file..."
-if python generate_tex.py "$YAML_FILE" -o "${OUTPUT_NAME}.tex"; then
+if python3 generate_tex.py "$YAML_FILE" -o "${OUTPUT_NAME}.tex"; then
     print_success "LaTeX file generated: ${OUTPUT_NAME}.tex"
 else
     print_error "Failed to generate LaTeX file!"
