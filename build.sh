@@ -32,7 +32,7 @@ print_error() {
 # Check if YAML file is provided
 if [ $# -lt 1 ]; then
     print_error "Usage: $0 <yaml_file> [expected_png_count] [output_name]"
-    print_error "Example: $0 symbols_v2.yaml 57 my_guide"
+    print_error "Example: $0 symbols_v3.yaml 57 HEP_Dooble_guide"
     exit 1
 fi
 
