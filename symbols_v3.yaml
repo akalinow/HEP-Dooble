@@ -65,7 +65,7 @@
 
 #########################################################################################################
 
-- description:  Production of the of $\Omega^-$ (sss) registered in bubble chamber confirming SU(3)
+- description:  Production of the of $\Omega^-$ (sss) registered in bubble chamber confirming SU(3) (1964)
     decuplet.
   image: HEP/bubble_chamber_omega.png
   title: $\Omega^-$ discovery
@@ -228,7 +228,7 @@
                the strong and electromagnetic interactions. First hypernucleus was discovered in 1952
                 in cosmic rays by Danysz and Pniewski at Hoża street in Warsaw.
   image: HEP/hypernucleus.png
-  title: Hypernucleus
+  title: Hypernucleus Discovery
   url: https://en.wikipedia.org/wiki/Hypernucleus
 
 ########################################################################################################
@@ -275,7 +275,8 @@
 
 ########################################################################################################
 
-- description: Invariant mass distribution for Higgs to four-lepton decay ($pp \to H \to ZZ^{(*)} \to 4\ell$), the "golden channel" for its discovery.
+- description: Invariant mass distribution for Higgs to four-lepton decay ($pp \to H \to ZZ^{(*)} \to 4\ell$), the "golden channel" for its discovery (2012)
+                by ATLAS and CMS experiments at the LHC. A few members of FUW (in addition to 3000+ other physicists) contributed to this analysis.
   image: HEP/m4l_Higgs.png
   title: Higgs Discovery
   url: https://en.wikipedia.org/wiki/File:Higgs4Lepton.png
@@ -284,9 +285,9 @@
 
 - description: Histogram of event counts in the Super-Kamiokande detector as a function of zenith angle,
                showing the deficit of muon neutrinos coming from below (longer path through Earth).
-               This is a discovery plot for neutrino oscillations.
-               Flavor change due to mixing and mass differences 
-               (with probability approximation of $P_{\alpha\to\beta} \approx \sin^2(2\theta) \sin^2\left(\frac{\Delta m^2 L}{4E}\right)$).
+               This is a discovery plot for neutrino oscillations (1998).
+               D. Kiełczewska from FUW contributed to this analysis.
+
   image: HEP/nu_oscillations.png
   title: Neutrino Oscillations Discovery
   url: https://en.wikipedia.org/wiki/Neutrino_oscillation
@@ -375,7 +376,6 @@
 
 - description: Cherenkov light pattern from neutrino interaction in Super-Kamiokande. This is a cylinder projected on a 2D plane.
                The ring shape allows to distinguish between muon (sharp ring) and electron (fuzzy ring) events.
-               Used in the discovery of neutrino oscillations.
   image: HEP/sk_event.png
   title: Super-K Event
   url: https://t2k-experiment.org/super-kamiokande-event-displays/
